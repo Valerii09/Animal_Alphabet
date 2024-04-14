@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/quiz_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="350dp"
+            android:background="@drawable/custom_button_background"
+            android:fontFamily="@font/inter"
+            android:gravity="center"
+            android:padding="3dp"
+            android:shadowColor="#000000"
+            android:shadowRadius="9"
+            android:text="Animal Alphabet"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/sound_button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/custom_button_background"
+            android:fontFamily="@font/inter"
+            android:gravity="center"
+            android:padding="3dp"
+            android:shadowColor="#000000"
+            android:shadowRadius="9"
+            android:text="Sound on"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/exit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="80dp"
+            android:background="@drawable/custom_button_background"
+            android:fontFamily="@font/inter"
+            android:gravity="center"
+            android:padding="3dp"
+            android:shadowColor="#000000"
+            android:shadowRadius="9"
+            android:text="Exit"
+            android:textAllCaps="false"
+            android:textColor="@color/colorPrimary"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</ScrollView>

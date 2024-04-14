@@ -1,0 +1,93 @@
+[
+  {
+    "question": "The addax is a critically endangered antelope species. Which of these statements about it is true?",
+    "options": [
+      "They have no horns",
+      "They live in the Amazonian rain forests",
+      "They have very poor night vision",
+      "They turn white in summer and brown in winter"
+    ],
+    "answer": "They turn white in summer and brown in winter"
+  },
+  {
+    "question": "The bharal is found in the wild high in the mountains of Bhutan; what exactly is it?",
+    "options": [
+      "Water vole",
+      "Bird of prey",
+      "Slow worm",
+      "Mountain goat"
+    ],
+    "answer": "Mountain goat"
+  },
+  {
+    "question": "The Calabar angwantibo, also known as the Calabar potto, lives in the dense rain forests of Nigeria and Equatorial Guinea.Which of these things are their preferred food?",
+    "options": [
+      "Tree nuts",
+      "Caterpillars",
+      "Roots and bark",
+      "Mice, voles and frogs"
+    ],
+    "answer": "Caterpillars"
+  },
+  {
+    "question": "The fossa is the largest carnivorous mammal found on its native island habitat. Which island is this?",
+    "options": [
+      "Madagascar",
+      "South Georgia",
+      "Okinawa",
+      "Tasmania"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "question": "The gazelle species Litocranius walleri is found throughout the Horn of Africa and has a common name which means \"giraffe necked\" in a Somali language. What is this common name?",
+    "options": [
+      "Gerenuk",
+      "Genet",
+      "Gemsbok",
+      "Gaur"
+    ],
+    "answer": "Gerenuk"
+  },
+  {
+    "question": "Which of these terms is used for a baby hippopotamus?",
+    "options": [
+      "Pup",
+      "Kit",
+      "Cub",
+      "Calf"
+    ],
+    "answer": "Calf"
+  },
+  {
+    "question": "The ibex lives wild in the mountainous Alpine regions of Europe, mainly in Switzerland.Which of these statements is true about its beard?",
+    "options": [
+      "Only females have a beard",
+      "Only males have a beard",
+      "Both male and female have a beard",
+      "Neither male nor female has a beard"
+    ],
+    "answer": "Only males have a beard"
+  },
+  {
+    "question": "True or false? Jaguars like water and are excellent swimmers.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "question": "Where would you find small carnivorous kowari in the wild?",
+    "options": [
+      "Japan",
+      "Russia",
+      "Australia",
+      "Mexico"
+    ],
+    "answer": "Australia"
+  }
+]
+
+ 
+  
